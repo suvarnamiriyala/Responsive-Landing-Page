@@ -69,3 +69,5 @@ Through this project, I gained hands-on experience in:
 
 This project demonstrates the fundamentals of modern front-end web development by combining responsive design, clean UI principles, and interactive elements into a single landing page. It serves as a strong foundation for building more advanced web applications while showcasing practical skills in HTML, CSS, and JavaScript.
 
+#OUTPUT  : 
+<img width="940" height="618" alt="Image" src="https://github.com/user-attachments/assets/2d3c9a40-109f-43a6-94d1-a8da037f78cb" />
